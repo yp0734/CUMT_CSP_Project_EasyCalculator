@@ -1,2 +1,2 @@
 # CUMT_CSP_Project_EasyCalculator
-简单计算器
+中国矿业大学程序设计综合实践第一个项目：简单计算器
